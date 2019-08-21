@@ -1,0 +1,73 @@
+.body{
+    background-color: yellow;
+    font-family: "helvetica";
+    margin: 20px 20px;
+}
+
+
+.container-fluid{
+    background-color: yellow;
+    margin: 0px 150px 0px 150px;
+    font-weight: bold;
+    height: 43em;
+}
+
+
+.fluid{
+    margin-bottom: 0.5em;
+}
+
+
+.col{
+    background-color: #eeeeee;
+    border: 1.49px solid black;
+    height: 2.5em;
+    margin: 0px 0px 0px 0px;
+    font-weight: bold;
+}
+
+
+.header{
+    height: 10em;
+    background-color: blue
+}
+
+
+.nav{
+    height: 4.0em;
+    background-color: green;
+}
+
+
+.navigation{
+    margin-left: 10px;
+}
+
+
+.content{
+    height: 12em;
+    background-color: red;
+}
+
+
+.aside{
+    height: 12em;
+    background-color: aqua;
+}
+
+
+.promo{
+    height: 10em;
+    background-color: orange;
+}
+
+.footer{
+    height: 4em;
+    color: white;
+    background-color: black;
+    
+}
+
+.drop{
+    margin-top:20px;
+}
